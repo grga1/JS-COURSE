@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+ padding: 0;
+    margin: 0;
+}
+body{
+    background: url("https://t4.ftcdn.net/jpg/04/48/46/75/360_F_448467517_QXFZY8nA41dSbvaJzCIfItRzk0Wmv5n6.jpg") no-repeat;
+  background-size: cover;
+    background-attachment: fixed;
+}
+.container{
+    overflow: hidden;
+    text-align: center;
+    height: 350px;
+    width: 350px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 220px;
+    padding-top: 20px;
+    font-weight: bolder;
+}
+p{
+    margin-top: 20px;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
