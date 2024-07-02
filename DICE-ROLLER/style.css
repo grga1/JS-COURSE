@@ -1,0 +1,12 @@
+#container{
+    text-align: center;
+    color: midnightblue;
+    font-weight: bold;
+}
+input{
+    text-align: center;
+}
+#images>img{
+    height: 100px;
+    width: 100px;
+}
