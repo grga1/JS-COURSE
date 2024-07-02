@@ -1,2 +1,2 @@
 # JS-COURSE
-JavaScript course from cysecor
+Some JavaScript projects
